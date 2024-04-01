@@ -25,7 +25,7 @@ def copy_folder_contents(source_dir, dest_dir):
 
 # set the paths of the folders you want to copy
 packages_path = os.path.join(os.getcwd(), "packages")
-houdini_path = os.path.join(os.getcwd(), "houdini")
+houdini_path = os.path.join(os.getcwd(), "houdini-pipeline")
 
 # copy folder2 to the current user's My Documents folder
 user_documents = os.path.join(os.path.expanduser("~"), "Documents")

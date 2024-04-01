@@ -1,0 +1,3 @@
+[submodule "houdini-pipeline"]
+	path = houdini-pipeline
+	url = https://github.com/manx151089/houdini-pipeline
